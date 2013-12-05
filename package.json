@@ -2,22 +2,22 @@
   "name": "grunt-webfontjson",
   "description": "Grunt plugin for webfontjson.",
   "version": "0.0.3",
-  "homepage": "https://github.com/ahume/grunt-webfontjson",
+  "homepage": "https://github.com/guardian/grunt-webfontjson",
   "author": {
     "name": "Andy Hume",
     "email": "andyhume@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ahume/grunt-webfontjson.git"
+    "url": "git://github.com/guardian/grunt-webfontjson.git"
   },
   "bugs": {
-    "url": "https://github.com/ahume/grunt-webfontjson/issues"
+    "url": "https://github.com/guardian/grunt-webfontjson/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/ahume/grunt-webfontjson/blob/master/LICENSE-MIT"
+      "url": "https://github.com/guardian/grunt-webfontjson/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "webfontjson": "0.0.3"
+    "guardian/webfontjson": "0.0.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
